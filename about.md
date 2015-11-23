@@ -13,4 +13,5 @@ A place to include any other types of information that you'd like to include abo
 I like to build stuff.
 
 ### Contact me
+Please don't spam me.
 [email@domain.com](mailto:email@domain.com)
