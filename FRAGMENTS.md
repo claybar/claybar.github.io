@@ -8,3 +8,7 @@
   </ul>
 </div>
 ```
+
+### Tag index
+http://charliepark.org/tags-in-jekyll/
+
