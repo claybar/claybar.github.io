@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The start of another blog
-category: blogging
 tags: [testing, blah, tagtastic]
 ---
 
