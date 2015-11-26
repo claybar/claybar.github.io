@@ -1,6 +1,6 @@
-testing:
-  name: testing
-tagtastic:
+-slug testing
+  name: Testing
+-slug
   name: TagTastic 
-blah:
+-slug blah
   name: BlahTag  
