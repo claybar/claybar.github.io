@@ -4,7 +4,7 @@ layout: default
 
 
 <article class="page">
-	<h1>Articles containing tag: {{ page.tag }}</h1>
+	<h1>Posts containing tag: {{ page.tag }}</h1>
 	<div>
     	{% if site.tags[page.tag] %}
         	{% for post in site.tags[page.tag] %}
