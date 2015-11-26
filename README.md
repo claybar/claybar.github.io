@@ -2,6 +2,7 @@
 ## Credits
 
 * Site config orignally forked from [barryclark/jeykll-now](https://github.com/barryclark/jekyll-now)
+* Tagging system based on [minddust](http://www.minddust.com/post/tags-and-categories-on-github-pages/)
 
 # Jekyll Now
 
