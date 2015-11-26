@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The start of another blog
-tags: testing blah tagtastic
+tags: [testing, blah, tagtastic]
 ---
 
 It's time for the web to be cluttered with another blog about stuff.  This one is going to start out about me hacking together things to use in and around our house.  Who knows where it might end up.
