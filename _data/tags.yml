@@ -1,6 +1,6 @@
--slug: testing
+- slug: testing
   name: Testing
--slug: tagtastic
+- slug: tagtastic
   name: TagTastic 
--slug: blah
+- slug: blah
   name: BlahTag  
