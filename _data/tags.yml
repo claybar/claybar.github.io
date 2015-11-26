@@ -2,4 +2,5 @@
   name: testing
 - slug: tagtastic
   name: TagTastic 
-  
+- slug: blah
+  name: BlahTag  
