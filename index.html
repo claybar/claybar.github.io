@@ -10,7 +10,8 @@ layout: default
 
       <div class="entry">
         {{ post.excerpt }}
-        <img src="{{ site.baseurl }}{{ post.image.url }}" title="{{ post.image.title }}">
+        {% assign image = post.image[0] %}
+        {% include image.html image=image %}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
