@@ -1,5 +1,5 @@
 ---
-layout: blog_by_tag
+layout: tag_list
 tag: tagtastic
 permalink: /tag/tagtastic/
 ---
