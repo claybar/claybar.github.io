@@ -1,5 +1,5 @@
 ---
-layout: tag_list
+layout: tag
 tag: testing
 permalink: /tag/testing/
 ---
