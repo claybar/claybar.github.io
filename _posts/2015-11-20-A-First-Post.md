@@ -14,3 +14,7 @@ Since WordPress seems to be a bit of a monster, I thought I would use a slightly
 This is an image of the sun.
 ![The sun]({{ site.url }}/images/sun.jpg)
 
+Here is a great place to go mountain biking
+<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.topomap.co.nz/NZTopoMapEmbedded?v=2&ll=-43.163182,171.702318&z=13"></iframe><br /><small><a href="http://www.topomap.co.nz/NZTopoMap?v=2&ll=-43.163182,171.702318&z=13" style="text-align:left">View Larger Topographic Map</a></small>
+
+
