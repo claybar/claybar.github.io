@@ -19,3 +19,4 @@ permalink: /links/
 
 ### Other
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+* [QR code generator](https://www.the-qrcode-generator.com/)
