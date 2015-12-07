@@ -2,6 +2,7 @@
 layout: post
 title: Title
 tags: [tag1, tag2]
+published: false
 image: 
   - url: /images/sun.jpg
     title: The Sun
