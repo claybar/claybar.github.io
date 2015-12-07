@@ -1,6 +1,6 @@
-- slug: testing
-  name: Testing
-- slug: tagtastic
-  name: TagTastic 
-- slug: blah
-  name: BlahTag  
+- slug: beer
+  name: beer
+- slug: brewlog
+  name: brewlog 
+- slug: ginger
+  name: ginger
