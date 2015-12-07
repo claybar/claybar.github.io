@@ -1,0 +1,3 @@
+# Jekyll local build output
+.sass-cache/
+_site/
