@@ -19,7 +19,7 @@ ale was top of the list.  A quick trip to my [local brewing shop
 (LBS)](http://www.bininn.co.nz/locations/lincoln-road) and I was ready to go
 with a 'Riwaka Pale Ale'.
 
-{:.image-right}
+{:.image-right-50}
 ![Label](/images/labels/2015-12-Riwaka-Pale-Ale.png)
 
 Ingredients:

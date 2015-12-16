@@ -271,14 +271,28 @@ nav {
   }
 }
 
-.image-right {
+.image-right-25 {
+  float: right;
+  margin-left: 1em;
+  text-align: right;
+  width: 25%;
+}
+
+.image-left-25 {
+  float: left;
+  margin-right: 1em;
+  text-align: left;
+  width: 25%;
+}
+
+.image-right-50 {
   float: right;
   margin-left: 1em;
   text-align: right;
   width: 50%;
 }
 
-.image-left {
+.image-left-50 {
   float: left;
   margin-right: 1em;
   text-align: left;

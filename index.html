@@ -6,7 +6,7 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <div class="image-right">
+      <div class="image-right-25">
         {% assign image = post.image[0] %}
         {% include image.html image=image %}
       </div>
