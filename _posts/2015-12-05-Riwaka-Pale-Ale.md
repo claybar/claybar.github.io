@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Riwaka Pale Ale
-tags: [beer, brewlog]
+tags: [beer, brewlog, paleale]
 published: true
 image: 
   - url: /images/labels/2015-12-Riwaka-Pale-Ale.png
