@@ -2,9 +2,9 @@
 layout: post
 title: Low Alcohol Ginger Beer
 tags: [brewlog, beer, ginger]
-#image: 
-#  - url: /images/labels/2012-01-Ginger.jpg
-#    title: Label
+image: 
+  - url: /images/labels/2012-01-Ginger.jpg
+    title: Label
 ---
 
 There is something rather refreshing about a ginger beer, especially on a hot summers day.  A few months back I combined a Coopers lager tin with some fresh ginger.  Although gingery flavoured, it was not a beer that you could have many of due to the high alcohol content.  When poured it had almost zero head and needed to be very cold to hold back some of the harsh aftertaste.  Rather than trying the beer+ginger approach I though I would give a dedicated ginger beer can a go.
