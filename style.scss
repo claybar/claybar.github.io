@@ -276,13 +276,6 @@ nav {
   margin-left: 1em;
   text-align: right;
   width: 25%;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    width 100%;
-  }
 }
 
 .image-left-25 {
@@ -290,13 +283,6 @@ nav {
   margin-right: 1em;
   text-align: left;
   width: 25%;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    width 100%;
-  }
 }
 
 .image-right-50 {
@@ -304,13 +290,6 @@ nav {
   margin-left: 1em;
   text-align: right;
   width: 50%;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    width 100%;
-  }
 }
 
 .image-left-50 {
@@ -318,13 +297,6 @@ nav {
   margin-right: 1em;
   text-align: left;
   width: 50%;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    width 100%;
-  }
 }
 
 .wrapper-footer {
