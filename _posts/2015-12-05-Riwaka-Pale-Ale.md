@@ -3,9 +3,9 @@ layout: post
 title: Riwaka Pale Ale
 tags: [beer, brewlog]
 published: true
-image: 
-  - url: /images/labels/2015-12-Riwaka-Pale-Ale.png
-    title: Label
+#image: 
+#  - url: /images/labels/2015-12-Riwaka-Pale-Ale.png
+#    title: Label
 ---
 
 Over the last couple of years life seems to have been very busy and as a
