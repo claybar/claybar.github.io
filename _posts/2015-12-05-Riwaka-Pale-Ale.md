@@ -39,7 +39,7 @@ hopping the beer.  These hops cause a nice layer of green krausen to form on
 the surface of the beer, hopefully it can be keep undisturbed during the
 bottling process.
 
-# Bottling
+### Bottling
 
 After about 7 days brewing it seemed ready for bottling, FG is down to about 1013.
 The bottling process went reasonably smoothly, 45 500mL bottles full and capped.
