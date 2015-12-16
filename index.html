@@ -8,6 +8,8 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <div class="entry">
         {{ post.excerpt }}
+      </div>
+      <div class=".image-right">
         {% assign image = post.image[0] %}
         {% include image.html image=image %}
       </div>
