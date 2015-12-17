@@ -1,8 +1,10 @@
 - slug: beer
   name: beer
 - slug: brewlog
-  name: brewlog 
+  name: brewlog   
+- slug: dry-hopped
+  name: dry-hopped
 - slug: ginger
   name: ginger
-- slug: paleale
-  name: paleale
+- slug: pale-ale
+  name: pale-ale
