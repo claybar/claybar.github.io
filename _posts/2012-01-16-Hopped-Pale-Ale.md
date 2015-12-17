@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hopped Pale Ale
-tags: [brewlog, beer, pale-ale, dry-hopped]
+tags: [brewlog, beer, pale-ale, dry-hopped, motueka-hops, nelson-sauvin-hops]
 image: 
   - url: /images/labels/2012-02-Hopped-Pale-Ale.jpg
     title: Bottle Label
