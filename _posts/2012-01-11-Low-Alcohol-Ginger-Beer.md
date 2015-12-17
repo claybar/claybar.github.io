@@ -15,6 +15,7 @@ There is something rather refreshing about a ginger beer, especially on a hot su
 There seems to be two main ginger beer brew cans out there, Coopers and Brigalow.  The Coopers cans seem to be favoured on many forums, but my local brewing shop (Bin Inn Lincoln Road) only had Brigalow in stock.  The back of the can has recipies for both alcoholic and non-alcoholic variants, essentially with and without sugar added.  I went for somewhere in the middle using 500g of sugar.  All going well this should be just under 2% once the priming sugar is included.  One of the major complaints about the Brigalow brew is the lack of body.  To help counteract this I have used the darkest sugar I could find, Billington's Molasses.
 
 Into the brewing drum:
+
 - 900g can of Brigalow Ginger Beer
 - 500g Billington's Molasses
 - 4g 'Yeast Nutrient' sachet from the can
