@@ -1,10 +1,20 @@
 - slug: beer
   name: beer
+- slug: black
+  name: black
+- slug: bock
+  name: bock
 - slug: brewlog
-  name: brewlog   
+  name: brewlog
+- slug: cider
+  name: cider
 - slug: dry-hopped
   name: dry-hopped
 - slug: ginger
   name: ginger
+- slug: motueka-hops
+  name: motueka-hops
+- slug: nelson-sauvin-hops
+  name: nelson-sauvin-hops
 - slug: pale-ale
   name: pale-ale
