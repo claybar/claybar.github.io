@@ -7,11 +7,9 @@ layout: default
 	<div>
     {% if site.tags[page.tag] %}
       {% for post in site.tags[page.tag] %}
-			  <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-        <div class="entry">
-          {{ post.excerpt }}
+        <div>
+        <a href="{{ site.baseurl }}{{ post.url }}"class="read-more">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a>
         </div>
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       {% endfor %}
     {% else %}
       <p>There are no posts for this tag.</p>
